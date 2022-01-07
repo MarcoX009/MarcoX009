@@ -1,6 +1,6 @@
 👋Olá! Eu sou o Marco Fernandes
 
-- 🔭 Hoje não estou trabalhando no momento
+- 🔭 Não estou trabalhando no momento
 - 🌱 Estudando PhP
 - 📫 Contrate-me no email: contratomarcofernandes@gmail.com
 
